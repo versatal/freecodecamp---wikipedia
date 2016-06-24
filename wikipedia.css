@@ -1,0 +1,16 @@
+body {
+  background-color: pink;
+}
+
+.actionCenter {
+  margin-top: 150px;
+  text-align: center;
+}
+
+#results {
+  margin-top: 30px;
+}
+
+.article {
+  background-color: lightblue;
+}
