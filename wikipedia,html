@@ -1,0 +1,13 @@
+<div class="container">
+  <div class="actionCenter">
+    <h1><a
+        href="https://en.wikipedia.org/wiki/Special:Random"
+        target="_blank">
+        Random article</a>
+      </h1>
+    <input id="searchterm" type="text" /> <button id="search">search</button>
+  </div>
+  <div id="results">
+    <h1 class="text-center">Hit submit to search</h1>
+  </div>
+</div>
